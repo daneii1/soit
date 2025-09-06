@@ -1,0 +1,51 @@
+p {
+    font-size: 150%;
+   margin-right: 200px; /* */
+    margin-left: 200px;
+   
+
+}   
+img 
+{
+width: 320px;
+margin-left: 546px;
+margin-right: 200px;
+}
+
+iframe
+{
+margin-left: 410px;
+margin-right: 200px;
+}
+
+tr {
+  display: flex;
+background: #ffffff;
+border-color: rgb(121, 92, 92);
+ margin-right: 200px; /* */
+    margin-left: 600px;
+   
+font-size: 160%;
+font-style: italic;
+
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000;
+  }
+
+  img {
+    display: inline-block; 
+    overflow: hidden; /* Скрываем всё за контуром */
+  }
+   img {
+    transition: 1s; /* Время эффекта */
+    display: block; 
+  }
+   img:hover {
+    transform: scale(1.6); /* Увеличиваем масштаб */
+  }
+ 
+
